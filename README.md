@@ -1,4 +1,4 @@
-# Article name here
+# How to Delete a CDK Stack in AWS CDK
 
 A repository for an article on
 [bobbyhadz.com](https://bobbyhadz.com/blog/delete-cdk-stack)
